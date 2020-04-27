@@ -1,13 +1,13 @@
 {
-  "start-time" : "2020-04-27T19:52:18.596",
+  "start-time" : "2020-04-27T20:01:16.010",
   "akka-version" : "2.6.3",
   "akka-diagnostics-version" : "1.1.12",
-  "classpath" : "/tmp/sbt_9105f358/job-1/target/efb750b6/exercises_2.13-1.3.0.jar:/tmp/sbt_9105f358/target/271bb0de/common_2.13-1.3.0.jar:/tmp/sbt_9105f358/target/1418c956/scala-library-2.13.1.jar:/tmp/sbt_9105f358/target/b650b9cd/akka-actor_2.13-2.6.3.jar:/tmp/sbt_9105f358/target/a8b341fe/config-1.4.0.jar:/tmp/sbt_9105f358/target/cecd75f8/scala-java8-compat_2.13-0.9.0.jar:/tmp/sbt_9105f358/target/3801c01e/akka-slf4j_2.13-2.6.3.jar:/tmp/sbt_9105f358/target/b5a4b6d1/slf4j-api-1.7.30.jar:/tmp/sbt_9105f358/target/7c4f3c47/logback-classic-1.2.3.jar:/tmp/sbt_9105f358/target/86434440/logback-core-1.2.3.jar:/tmp/sbt_9105f358/target/1c591dfd/scala-parser-combinators_2.13-1.1.2.jar:/tmp/sbt_9105f358/target/e70d360c/akka-diagnostics_2.13-1.1.12.jar:/tmp/sbt_9105f358/target/6c6c702c/commons-lang3-3.5.jar:/tmp/sbt_9105f358/target/7832979b/cinnamon-akka_2.13-2.13.1.jar:/tmp/sbt_9105f358/target/5336dd59/cinnamon-java-2.13.1.jar:/tmp/sbt_9105f358/target/40a2e2da/cinnamon-core-java-2.13.1.jar:/tmp/sbt_9105f358/target/a65b97ee/cinnamon-common-2.13.1.jar:/tmp/sbt_9105f358/target/8637290f/cinnamon-scala_2.13-2.13.1.jar:/tmp/sbt_9105f358/target/4dbf8530/cinnamon-core_2.13-2.13.1.jar:/tmp/sbt_9105f358/target/8fc82389/cinnamon-jvm-metrics-producer-2.13.1.jar:/tmp/sbt_9105f358/target/6c8821a8/cinnamon-prometheus-2.13.1.jar:/tmp/sbt_9105f358/target/8d4e28b6/simpleclient-0.8.0.jar:/tmp/sbt_9105f358/target/6eb75521/HdrHistogram-2.1.12.jar:/tmp/sbt_9105f358/target/7c0c78cc/cinnamon-prometheus-httpserver-2.13.1.jar:/tmp/sbt_9105f358/target/92f1e166/simpleclient_httpserver-0.8.0.jar:/tmp/sbt_9105f358/target/011ed6de/simpleclient_common-0.8.0.jar:/home/krishna/.ivy2/cache/com.lightbend.cinnamon/cinnamon-agent/jars/cinnamon-agent-2.13.1.jar",
+  "classpath" : "/tmp/sbt_9105f358/job-2/target/54837dc3/exercises_2.13-1.3.0.jar:/tmp/sbt_9105f358/target/271bb0de/common_2.13-1.3.0.jar:/tmp/sbt_9105f358/target/1418c956/scala-library-2.13.1.jar:/tmp/sbt_9105f358/target/b650b9cd/akka-actor_2.13-2.6.3.jar:/tmp/sbt_9105f358/target/a8b341fe/config-1.4.0.jar:/tmp/sbt_9105f358/target/cecd75f8/scala-java8-compat_2.13-0.9.0.jar:/tmp/sbt_9105f358/target/3801c01e/akka-slf4j_2.13-2.6.3.jar:/tmp/sbt_9105f358/target/b5a4b6d1/slf4j-api-1.7.30.jar:/tmp/sbt_9105f358/target/7c4f3c47/logback-classic-1.2.3.jar:/tmp/sbt_9105f358/target/86434440/logback-core-1.2.3.jar:/tmp/sbt_9105f358/target/1c591dfd/scala-parser-combinators_2.13-1.1.2.jar:/tmp/sbt_9105f358/target/e70d360c/akka-diagnostics_2.13-1.1.12.jar:/tmp/sbt_9105f358/target/6c6c702c/commons-lang3-3.5.jar:/tmp/sbt_9105f358/target/7832979b/cinnamon-akka_2.13-2.13.1.jar:/tmp/sbt_9105f358/target/5336dd59/cinnamon-java-2.13.1.jar:/tmp/sbt_9105f358/target/40a2e2da/cinnamon-core-java-2.13.1.jar:/tmp/sbt_9105f358/target/a65b97ee/cinnamon-common-2.13.1.jar:/tmp/sbt_9105f358/target/8637290f/cinnamon-scala_2.13-2.13.1.jar:/tmp/sbt_9105f358/target/4dbf8530/cinnamon-core_2.13-2.13.1.jar:/tmp/sbt_9105f358/target/8fc82389/cinnamon-jvm-metrics-producer-2.13.1.jar:/tmp/sbt_9105f358/target/6c8821a8/cinnamon-prometheus-2.13.1.jar:/tmp/sbt_9105f358/target/8d4e28b6/simpleclient-0.8.0.jar:/tmp/sbt_9105f358/target/6eb75521/HdrHistogram-2.1.12.jar:/tmp/sbt_9105f358/target/7c0c78cc/cinnamon-prometheus-httpserver-2.13.1.jar:/tmp/sbt_9105f358/target/92f1e166/simpleclient_httpserver-0.8.0.jar:/tmp/sbt_9105f358/target/011ed6de/simpleclient_common-0.8.0.jar:/home/krishna/.ivy2/cache/com.lightbend.cinnamon/cinnamon-agent/jars/cinnamon-agent-2.13.1.jar",
   "configuration-warnings" : [],
   "system-metrics" : {
     "heap-init" : 1073741824,
     "heap-max" : 3773300736,
-    "heap-used" : 96185248,
+    "heap-used" : 101830456,
     "heap-committed" : 1029177344,
     "os-processors" : 12,
     "mem-pool-0" : {
@@ -15,31 +15,31 @@
       "type" : "Non-heap memory",
       "init" : 2555904,
       "max" : 251658240,
-      "used" : 8403776,
-      "committed" : 8454144
+      "used" : 8528896,
+      "committed" : 8585216
     },
     "mem-pool-1" : {
       "name" : "Metaspace",
       "type" : "Non-heap memory",
       "init" : 0,
       "max" : -1,
-      "used" : 25043056,
-      "committed" : 26869760
+      "used" : 27537760,
+      "committed" : 29409280
     },
     "mem-pool-2" : {
       "name" : "Compressed Class Space",
       "type" : "Non-heap memory",
       "init" : 0,
       "max" : 1073741824,
-      "used" : 3279208,
-      "committed" : 3538944
+      "used" : 3631544,
+      "committed" : 3981312
     },
     "mem-pool-3" : {
       "name" : "PS Eden Space",
       "type" : "Heap memory",
       "init" : 268435456,
       "max" : 1325400064,
-      "used" : 80727712,
+      "used" : 86220096,
       "committed" : 268435456
     },
     "mem-pool-4" : {
@@ -55,12 +55,22 @@
       "type" : "Heap memory",
       "init" : 716177408,
       "max" : 2830106624,
-      "used" : 15457536,
+      "used" : 15610360,
       "committed" : 716177408
     }
   },
   "configuration" : {
     "akka" : {
+        "actor" : {
+            "debug" : {
+                "unhandled" : "on"
+            }
+        },
+        "loggers" : [
+            "akka.event.slf4j.Slf4jLogger"
+        ],
+        "logging-filter" : "akka.event.slf4j.Slf4jLoggingFilter",
+        "loglevel" : "DEBUG",
         "version" : "2.6.3"
     },
     "awt" : {
@@ -113,7 +123,7 @@
             "printerjob" : "sun.print.PSPrinterJob"
         },
         "class" : {
-            "path" : "/tmp/sbt_9105f358/job-1/target/efb750b6/exercises_2.13-1.3.0.jar:/tmp/sbt_9105f358/target/271bb0de/common_2.13-1.3.0.jar:/tmp/sbt_9105f358/target/1418c956/scala-library-2.13.1.jar:/tmp/sbt_9105f358/target/b650b9cd/akka-actor_2.13-2.6.3.jar:/tmp/sbt_9105f358/target/a8b341fe/config-1.4.0.jar:/tmp/sbt_9105f358/target/cecd75f8/scala-java8-compat_2.13-0.9.0.jar:/tmp/sbt_9105f358/target/3801c01e/akka-slf4j_2.13-2.6.3.jar:/tmp/sbt_9105f358/target/b5a4b6d1/slf4j-api-1.7.30.jar:/tmp/sbt_9105f358/target/7c4f3c47/logback-classic-1.2.3.jar:/tmp/sbt_9105f358/target/86434440/logback-core-1.2.3.jar:/tmp/sbt_9105f358/target/1c591dfd/scala-parser-combinators_2.13-1.1.2.jar:/tmp/sbt_9105f358/target/e70d360c/akka-diagnostics_2.13-1.1.12.jar:/tmp/sbt_9105f358/target/6c6c702c/commons-lang3-3.5.jar:/tmp/sbt_9105f358/target/7832979b/cinnamon-akka_2.13-2.13.1.jar:/tmp/sbt_9105f358/target/5336dd59/cinnamon-java-2.13.1.jar:/tmp/sbt_9105f358/target/40a2e2da/cinnamon-core-java-2.13.1.jar:/tmp/sbt_9105f358/target/a65b97ee/cinnamon-common-2.13.1.jar:/tmp/sbt_9105f358/target/8637290f/cinnamon-scala_2.13-2.13.1.jar:/tmp/sbt_9105f358/target/4dbf8530/cinnamon-core_2.13-2.13.1.jar:/tmp/sbt_9105f358/target/8fc82389/cinnamon-jvm-metrics-producer-2.13.1.jar:/tmp/sbt_9105f358/target/6c8821a8/cinnamon-prometheus-2.13.1.jar:/tmp/sbt_9105f358/target/8d4e28b6/simpleclient-0.8.0.jar:/tmp/sbt_9105f358/target/6eb75521/HdrHistogram-2.1.12.jar:/tmp/sbt_9105f358/target/7c0c78cc/cinnamon-prometheus-httpserver-2.13.1.jar:/tmp/sbt_9105f358/target/92f1e166/simpleclient_httpserver-0.8.0.jar:/tmp/sbt_9105f358/target/011ed6de/simpleclient_common-0.8.0.jar:/home/krishna/.ivy2/cache/com.lightbend.cinnamon/cinnamon-agent/jars/cinnamon-agent-2.13.1.jar",
+            "path" : "/tmp/sbt_9105f358/job-2/target/54837dc3/exercises_2.13-1.3.0.jar:/tmp/sbt_9105f358/target/271bb0de/common_2.13-1.3.0.jar:/tmp/sbt_9105f358/target/1418c956/scala-library-2.13.1.jar:/tmp/sbt_9105f358/target/b650b9cd/akka-actor_2.13-2.6.3.jar:/tmp/sbt_9105f358/target/a8b341fe/config-1.4.0.jar:/tmp/sbt_9105f358/target/cecd75f8/scala-java8-compat_2.13-0.9.0.jar:/tmp/sbt_9105f358/target/3801c01e/akka-slf4j_2.13-2.6.3.jar:/tmp/sbt_9105f358/target/b5a4b6d1/slf4j-api-1.7.30.jar:/tmp/sbt_9105f358/target/7c4f3c47/logback-classic-1.2.3.jar:/tmp/sbt_9105f358/target/86434440/logback-core-1.2.3.jar:/tmp/sbt_9105f358/target/1c591dfd/scala-parser-combinators_2.13-1.1.2.jar:/tmp/sbt_9105f358/target/e70d360c/akka-diagnostics_2.13-1.1.12.jar:/tmp/sbt_9105f358/target/6c6c702c/commons-lang3-3.5.jar:/tmp/sbt_9105f358/target/7832979b/cinnamon-akka_2.13-2.13.1.jar:/tmp/sbt_9105f358/target/5336dd59/cinnamon-java-2.13.1.jar:/tmp/sbt_9105f358/target/40a2e2da/cinnamon-core-java-2.13.1.jar:/tmp/sbt_9105f358/target/a65b97ee/cinnamon-common-2.13.1.jar:/tmp/sbt_9105f358/target/8637290f/cinnamon-scala_2.13-2.13.1.jar:/tmp/sbt_9105f358/target/4dbf8530/cinnamon-core_2.13-2.13.1.jar:/tmp/sbt_9105f358/target/8fc82389/cinnamon-jvm-metrics-producer-2.13.1.jar:/tmp/sbt_9105f358/target/6c8821a8/cinnamon-prometheus-2.13.1.jar:/tmp/sbt_9105f358/target/8d4e28b6/simpleclient-0.8.0.jar:/tmp/sbt_9105f358/target/6eb75521/HdrHistogram-2.1.12.jar:/tmp/sbt_9105f358/target/7c0c78cc/cinnamon-prometheus-httpserver-2.13.1.jar:/tmp/sbt_9105f358/target/92f1e166/simpleclient_httpserver-0.8.0.jar:/tmp/sbt_9105f358/target/011ed6de/simpleclient_common-0.8.0.jar:/home/krishna/.ivy2/cache/com.lightbend.cinnamon/cinnamon-agent/jars/cinnamon-agent-2.13.1.jar",
             "version" : "52.0"
         },
         "endorsed" : {
