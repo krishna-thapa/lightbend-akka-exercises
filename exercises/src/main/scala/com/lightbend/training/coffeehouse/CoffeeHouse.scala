@@ -1,14 +1,14 @@
 package com.lightbend.training.coffeehouse
 
-import akka.actor.{ Actor, ActorLogging, Props }
+import akka.actor.{Actor, ActorLogging, Props}
 
 object CoffeeHouse {
-  def props():Props = Props(new CoffeeHouse)
+  def props(): Props = Props(new CoffeeHouse)
 }
 class CoffeeHouse extends Actor with ActorLogging {
   log.debug("CoffeeHouse open")
 
   override def receive: Receive = {
-    case _ => log.info("Coffee Brewing")
+    case _ => sender() ! "Coffee Brewing"
   }
 }
