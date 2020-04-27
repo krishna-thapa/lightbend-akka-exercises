@@ -1,2 +1,7 @@
-.idea
-target
+/.idea/
+/target/
+/lightbend.sbt
+/exercises/target/
+/common/target/
+/project/target/
+
