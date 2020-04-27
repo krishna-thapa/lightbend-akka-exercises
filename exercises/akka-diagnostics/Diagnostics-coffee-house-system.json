@@ -1,21 +1,21 @@
 {
-  "start-time" : "2020-04-27T21:28:30.348",
+  "start-time" : "2020-04-27T21:49:30.949",
   "akka-version" : "2.6.3",
   "akka-diagnostics-version" : "1.1.12",
-  "classpath" : "/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/job-1/target/9bdb8774/exercises_2.13-1.3.0.jar:/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/92f9b6f0/common_2.13-1.3.0.jar:/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/1418c956/scala-library-2.13.1.jar:/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/b650b9cd/akka-actor_2.13-2.6.3.jar:/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/a8b341fe/config-1.4.0.jar:/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/cecd75f8/scala-java8-compat_2.13-0.9.0.jar:/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/3801c01e/akka-slf4j_2.13-2.6.3.jar:/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/b5a4b6d1/slf4j-api-1.7.30.jar:/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/7c4f3c47/logback-classic-1.2.3.jar:/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/86434440/logback-core-1.2.3.jar:/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/1c591dfd/scala-parser-combinators_2.13-1.1.2.jar:/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/e70d360c/akka-diagnostics_2.13-1.1.12.jar:/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/6c6c702c/commons-lang3-3.5.jar:/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/7832979b/cinnamon-akka_2.13-2.13.1.jar:/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/5336dd59/cinnamon-java-2.13.1.jar:/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/40a2e2da/cinnamon-core-java-2.13.1.jar:/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/a65b97ee/cinnamon-common-2.13.1.jar:/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/8637290f/cinnamon-scala_2.13-2.13.1.jar:/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/4dbf8530/cinnamon-core_2.13-2.13.1.jar:/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/8fc82389/cinnamon-jvm-metrics-producer-2.13.1.jar:/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/6c8821a8/cinnamon-prometheus-2.13.1.jar:/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/8d4e28b6/simpleclient-0.8.0.jar:/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/6eb75521/HdrHistogram-2.1.12.jar:/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/7c0c78cc/cinnamon-prometheus-httpserver-2.13.1.jar:/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/92f1e166/simpleclient_httpserver-0.8.0.jar:/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/011ed6de/simpleclient_common-0.8.0.jar:/Users/santosh/.ivy2/cache/com.lightbend.cinnamon/cinnamon-agent/jars/cinnamon-agent-2.13.1.jar",
+  "classpath" : "/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/job-3/target/e7be1134/exercises_2.13-1.3.0.jar:/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/92f9b6f0/common_2.13-1.3.0.jar:/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/1418c956/scala-library-2.13.1.jar:/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/b650b9cd/akka-actor_2.13-2.6.3.jar:/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/a8b341fe/config-1.4.0.jar:/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/cecd75f8/scala-java8-compat_2.13-0.9.0.jar:/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/3801c01e/akka-slf4j_2.13-2.6.3.jar:/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/b5a4b6d1/slf4j-api-1.7.30.jar:/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/7c4f3c47/logback-classic-1.2.3.jar:/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/86434440/logback-core-1.2.3.jar:/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/1c591dfd/scala-parser-combinators_2.13-1.1.2.jar:/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/e70d360c/akka-diagnostics_2.13-1.1.12.jar:/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/6c6c702c/commons-lang3-3.5.jar:/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/7832979b/cinnamon-akka_2.13-2.13.1.jar:/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/5336dd59/cinnamon-java-2.13.1.jar:/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/40a2e2da/cinnamon-core-java-2.13.1.jar:/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/a65b97ee/cinnamon-common-2.13.1.jar:/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/8637290f/cinnamon-scala_2.13-2.13.1.jar:/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/4dbf8530/cinnamon-core_2.13-2.13.1.jar:/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/8fc82389/cinnamon-jvm-metrics-producer-2.13.1.jar:/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/6c8821a8/cinnamon-prometheus-2.13.1.jar:/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/8d4e28b6/simpleclient-0.8.0.jar:/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/6eb75521/HdrHistogram-2.1.12.jar:/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/7c0c78cc/cinnamon-prometheus-httpserver-2.13.1.jar:/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/92f1e166/simpleclient_httpserver-0.8.0.jar:/private/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/011ed6de/simpleclient_common-0.8.0.jar:/Users/santosh/.ivy2/cache/com.lightbend.cinnamon/cinnamon-agent/jars/cinnamon-agent-2.13.1.jar",
   "configuration-warnings" : [],
   "system-metrics" : {
     "heap-init" : 134217728,
     "heap-max" : 1908932608,
-    "heap-used" : 39209448,
-    "heap-committed" : 119013376,
+    "heap-used" : 40163456,
+    "heap-committed" : 120586240,
     "os-processors" : 8,
     "mem-pool-0" : {
       "name" : "Code Cache",
       "type" : "Non-heap memory",
       "init" : 2555904,
       "max" : 251658240,
-      "used" : 8600896,
+      "used" : 8598336,
       "committed" : 8650752
     },
     "mem-pool-1" : {
@@ -23,7 +23,7 @@
       "type" : "Non-heap memory",
       "init" : 0,
       "max" : -1,
-      "used" : 27650320,
+      "used" : 27661424,
       "committed" : 29409280
     },
     "mem-pool-2" : {
@@ -31,7 +31,7 @@
       "type" : "Non-heap memory",
       "init" : 0,
       "max" : 1073741824,
-      "used" : 3647760,
+      "used" : 3648632,
       "committed" : 3981312
     },
     "mem-pool-3" : {
@@ -39,15 +39,15 @@
       "type" : "Heap memory",
       "init" : 34078720,
       "max" : 705167360,
-      "used" : 26311464,
-      "committed" : 51904512
+      "used" : 27078576,
+      "committed" : 52953088
     },
     "mem-pool-4" : {
       "name" : "PS Survivor Space",
       "type" : "Heap memory",
       "init" : 5242880,
       "max" : 5242880,
-      "used" : 5238744,
+      "used" : 5242504,
       "committed" : 5242880
     },
     "mem-pool-5" : {
@@ -55,14 +55,15 @@
       "type" : "Heap memory",
       "init" : 89653248,
       "max" : 1431830528,
-      "used" : 7866856,
-      "committed" : 61865984
+      "used" : 7842376,
+      "committed" : 62390272
     }
   },
   "configuration" : {
     "akka" : {
         "actor" : {
             "debug" : {
+                "lifecycle" : "on",
                 "unhandled" : "on"
             }
         },
@@ -129,7 +130,7 @@
             "printerjob" : "sun.lwawt.macosx.CPrinterJob"
         },
         "class" : {
-            "path" : "/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/job-1/target/9bdb8774/exercises_2.13-1.3.0.jar:/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/92f9b6f0/common_2.13-1.3.0.jar:/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/1418c956/scala-library-2.13.1.jar:/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/b650b9cd/akka-actor_2.13-2.6.3.jar:/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/a8b341fe/config-1.4.0.jar:/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/cecd75f8/scala-java8-compat_2.13-0.9.0.jar:/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/3801c01e/akka-slf4j_2.13-2.6.3.jar:/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/b5a4b6d1/slf4j-api-1.7.30.jar:/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/7c4f3c47/logback-classic-1.2.3.jar:/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/86434440/logback-core-1.2.3.jar:/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/1c591dfd/scala-parser-combinators_2.13-1.1.2.jar:/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/e70d360c/akka-diagnostics_2.13-1.1.12.jar:/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/6c6c702c/commons-lang3-3.5.jar:/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/7832979b/cinnamon-akka_2.13-2.13.1.jar:/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/5336dd59/cinnamon-java-2.13.1.jar:/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/40a2e2da/cinnamon-core-java-2.13.1.jar:/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/a65b97ee/cinnamon-common-2.13.1.jar:/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/8637290f/cinnamon-scala_2.13-2.13.1.jar:/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/4dbf8530/cinnamon-core_2.13-2.13.1.jar:/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/8fc82389/cinnamon-jvm-metrics-producer-2.13.1.jar:/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/6c8821a8/cinnamon-prometheus-2.13.1.jar:/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/8d4e28b6/simpleclient-0.8.0.jar:/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/6eb75521/HdrHistogram-2.1.12.jar:/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/7c0c78cc/cinnamon-prometheus-httpserver-2.13.1.jar:/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/92f1e166/simpleclient_httpserver-0.8.0.jar:/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/011ed6de/simpleclient_common-0.8.0.jar:/Users/santosh/.ivy2/cache/com.lightbend.cinnamon/cinnamon-agent/jars/cinnamon-agent-2.13.1.jar",
+            "path" : "/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/job-3/target/e7be1134/exercises_2.13-1.3.0.jar:/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/92f9b6f0/common_2.13-1.3.0.jar:/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/1418c956/scala-library-2.13.1.jar:/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/b650b9cd/akka-actor_2.13-2.6.3.jar:/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/a8b341fe/config-1.4.0.jar:/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/cecd75f8/scala-java8-compat_2.13-0.9.0.jar:/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/3801c01e/akka-slf4j_2.13-2.6.3.jar:/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/b5a4b6d1/slf4j-api-1.7.30.jar:/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/7c4f3c47/logback-classic-1.2.3.jar:/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/86434440/logback-core-1.2.3.jar:/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/1c591dfd/scala-parser-combinators_2.13-1.1.2.jar:/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/e70d360c/akka-diagnostics_2.13-1.1.12.jar:/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/6c6c702c/commons-lang3-3.5.jar:/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/7832979b/cinnamon-akka_2.13-2.13.1.jar:/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/5336dd59/cinnamon-java-2.13.1.jar:/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/40a2e2da/cinnamon-core-java-2.13.1.jar:/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/a65b97ee/cinnamon-common-2.13.1.jar:/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/8637290f/cinnamon-scala_2.13-2.13.1.jar:/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/4dbf8530/cinnamon-core_2.13-2.13.1.jar:/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/8fc82389/cinnamon-jvm-metrics-producer-2.13.1.jar:/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/6c8821a8/cinnamon-prometheus-2.13.1.jar:/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/8d4e28b6/simpleclient-0.8.0.jar:/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/6eb75521/HdrHistogram-2.1.12.jar:/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/7c0c78cc/cinnamon-prometheus-httpserver-2.13.1.jar:/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/92f1e166/simpleclient_httpserver-0.8.0.jar:/var/folders/s9/l0cq9nv54b1_nsrxndxdfg600000gn/T/sbt_d0f7f201/target/011ed6de/simpleclient_common-0.8.0.jar:/Users/santosh/.ivy2/cache/com.lightbend.cinnamon/cinnamon-agent/jars/cinnamon-agent-2.13.1.jar",
             "version" : "52.0"
         },
         "endorsed" : {
