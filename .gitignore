@@ -1,7 +1,4 @@
-/.idea/
-/target/
-/lightbend.sbt
-/exercises/target/
-/common/target/
-/project/target/
 
+/.idea/
+/project/target/
+/target/
