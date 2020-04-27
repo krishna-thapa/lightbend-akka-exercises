@@ -1,7 +1,6 @@
 /**
- * Copyright © 2014 - 2020 Lightbend, Inc. All rights reserved. [http://www.lightbend.com]
- */
-
+  * Copyright © 2014 - 2020 Lightbend, Inc. All rights reserved. [http://www.lightbend.com]
+  */
 package com.lightbend.training.coffeehouse
 
 import akka.actor.{ActorRef, ActorSystem}
@@ -29,7 +28,9 @@ object CoffeeHouseApp {
   private[coffeehouse] def argsToOpts(args: Seq[String]): Map[String, String] =
     args.collect { case opt(key, value) => key -> value }.to(Map)
 
-  private[coffeehouse] def applySystemProperties(opts: Map[String, String]): Unit =
+  private[coffeehouse] def applySystemProperties(
+    opts: Map[String, String]
+  ): Unit =
     for ((key, value) <- opts if key startsWith "-D")
       System.setProperty(key substring 2, value)
 }
@@ -40,11 +41,16 @@ class CoffeeHouseApp(system: ActorSystem) extends Terminal {
 
   private val coffeeHouse = createCoffeeHouse()
 
+  coffeeHouse ! "Brew Coffee"
+
   def run(): Unit = {
-    log.warning(f"{} running%nEnter "
-      + Console.BLUE + "commands" + Console.RESET
-      + " into the terminal: "
-      + Console.BLUE + "[e.g. `q` or `quit`]" + Console.RESET, getClass.getSimpleName)
+    log.warning(
+      f"{} running%nEnter "
+        + Console.BLUE + "commands" + Console.RESET
+        + " into the terminal: "
+        + Console.BLUE + "[e.g. `q` or `quit`]" + Console.RESET,
+      getClass.getSimpleName
+    )
     commandLoop()
     Await.ready(system.whenTerminated, Duration.Inf)
   }
@@ -68,7 +74,9 @@ class CoffeeHouseApp(system: ActorSystem) extends Terminal {
         commandLoop()
     }
 
-  protected def createGuest(count: Int, coffee: Coffee, caffeineLimit: Int): Unit =
+  protected def createGuest(count: Int,
+                            coffee: Coffee,
+                            caffeineLimit: Int): Unit =
     ()
 
   protected def status(): Unit =
