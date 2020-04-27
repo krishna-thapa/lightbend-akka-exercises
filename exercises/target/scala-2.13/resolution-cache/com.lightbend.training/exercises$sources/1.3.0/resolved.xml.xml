@@ -4,7 +4,7 @@
 		module="exercises$sources"
 		revision="1.3.0"
 		status="integration"
-		publication="20200427191554"
+		publication="20200427201923"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
